@@ -1,6 +1,6 @@
 body{
   background-color:black;
-  color:white;
+  color:whitesmoke;
 }
 header, main, nav,footer {
   text-align: center;
@@ -57,5 +57,6 @@ h1 {
   margin-bottom 0px;
 }
 footer{
-   font-size 1em;
+   font-size: 1em;
+   color: green;
 }
